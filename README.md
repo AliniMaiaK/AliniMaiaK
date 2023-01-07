@@ -22,7 +22,7 @@
 <div> 
 <div> 
 
-   [!Gmail][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (https://alini.kmaia@gmail.com)
+  [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (https://alini.kmaia@gmail.com)
   <a href="https://www.linkedin.com/in/alinimaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/alinimaiak/alinimaiak/blob/output/github-contribution-grid-snake.svg)
