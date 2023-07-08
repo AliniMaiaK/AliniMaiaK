@@ -1,4 +1,4 @@
- ### Olá, seja bem-vindo(a) ao meu perfil, eu sou a Alini, desenvolvedora Developer.👊🏻😎
+ ### Olá, seja bem-vindo(a) ao meu perfil, eu sou a Alini, Developer.👊🏻😎
 
 <div>
   <a href="https://github.com/alinimaiak">
