@@ -1,5 +1,5 @@
  ### Olá, seja bem-vindo(a) ao meu perfil, eu sou a Alini, Desenvolvedora Full Stack.👊🏻😎
- Sou bem humorada e comunicativa, amo Tecnologia, abaixo segue meus conhecimentos de linguagens e Framework.
+ Sou bem humorada e comunicativa, amo Tecnologia, abaixo segue meus conhecimentos de linguagens, banco de dados e Framework.
  
 
 <div>
