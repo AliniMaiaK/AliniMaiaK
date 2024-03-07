@@ -1,5 +1,6 @@
  ### Olá, seja bem-vindo(a) ao meu perfil, eu sou a Alini, Desenvolvedora Full Stack.👊🏻😎
  Sou desenvolvedora de Software e graduanda do curso Tecnologia da informação pela UFMS (Universidade federal do Mato Grosso do Sul - EaD). 
+ 
  Formada em Técnico de redes de computadores e qualificação em Desenvolvimento Full Stack, sou bem humorada e carismática, atualmente me dedico em tecnologias modernas com aplicações do método Kaizen com 
  utilização do Kanban e Scrum, para a cada dia melhorar minha performace. 
  
