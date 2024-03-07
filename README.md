@@ -1,8 +1,8 @@
  ### Olá, seja bem-vindo(a) ao meu perfil, eu sou a Alini, Desenvolvedora Full Stack.👊🏻😎
- Sou apaixonada por tecnologia em desenvolvimento de software e engenharia de software, sou bem humorada e comunicativa, tenho cultivado atráves da criação de soluções inovadoras com tecnologias modernas que 
- impactam positivamente a vida das pessoas através de projetos e resolução de bugs.
+ Sou desenvolvedora de Software e graduanda do curso Tecnologia da informação pela UFMS (Universidade federal do Mato Grosso do Sul - EaD). 
+ Formada em Técnico de redes de computadores e qualificação em Desenvolvimento Full Stack, sou bem humorada e carismática, atualmente me dedico em tecnologias modernas com aplicações do método Kaizen com 
+ utilização do Kanban e Scrum, para a cada dia melhorar minha performace. 
  
-
 <div>
   <a href="https://github.com/alinimaiak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinimaiak&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
